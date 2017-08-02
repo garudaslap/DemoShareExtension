@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{F74D5FF3-BD70-46AE-A537-E4F2A2D9803A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DemoShareExtension Status">
+    <Files>
+      <File FileName="DemoShareExtension Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DemoShareExtension.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.FCB3DCB2-2BB0-4759-B243-4EA9D0568C05">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.DemoShareExtension.iOS>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../Desktop/ITBA/ITBApp/ITBApp/Services/ClassesByDayService.cs" line="151" offsetX="556" offsetY="2250" expression="jsonResponse" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.DemoShareExteion.iOS.ShareExtension>
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.DemoShareExteion.iOS.ShareExtension>
+  <MultiItemStartupConfigurations />
+</Properties>
